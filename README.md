@@ -7,3 +7,7 @@
 
 <a href="https://github.com/KamaTAEWOO"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=KamaTAEWOO&hide=contribs&show_icons=true&include_all_commits=true&count_private=true"/></a>
 </p>
+	<br>
+	<br>
+<img src="https://github.githubassets.com/images/spinners/octocat-spinner-128.gif" width="64" height="64">
+
