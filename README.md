@@ -1,4 +1,6 @@
 <div align="center">
+<br>
+<br>
 <p>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>  
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=White"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>  
