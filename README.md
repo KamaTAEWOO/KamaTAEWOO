@@ -1,6 +1,6 @@
 <div align="center">
   
-<img src="https://capsule-render.vercel.app/api?type=Rect&color=auto&height=200&section=header&text=Hello! I'm TeaWoo~ %20render&fontSize=90" />
+
 
 <br>
 <br>
