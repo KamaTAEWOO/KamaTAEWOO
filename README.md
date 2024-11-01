@@ -1,7 +1,4 @@
 <div align="center">
-  
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=0e2b40&height=150&section=header&text=Hello!&nbsp;I'm&nbsp;TaeWoo&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55) 
-
 <br>
 <br>
 <p>
