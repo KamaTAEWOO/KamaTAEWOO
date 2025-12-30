@@ -16,11 +16,10 @@
   
   <br>
   
-  ![KamaTAEWOO's GitHub stats](https://github-readme-stats.vercel.app/api?username=KamaTAEWOO&show_icons=true&theme=radical)
-  
+  ![KamaTAEWOO's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=KamaTAEWOO&show_icons=true&theme=radical)  
   <br>
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KamaTAEWOO&layout=compact&theme=radical)
+  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KamaTAEWOO&layout=compact&theme=radical)
   
   <br>
   
